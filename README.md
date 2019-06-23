@@ -1,80 +1,93 @@
 # Weekly Nerd @cmda-minor-web · 2018-2019
 
-Elke week is er op woensdagmiddag de Weekly Nerd: 
-Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
+## Articles
+1) [You Are Not a Real Programmer](https://medium.com/@maanlampje/i-am-not-a-real-programmer-ae46f70934ce)
 
-## Leerdoelen
-- Kennismaken met het beroepenveld
-- Orienteren op het vakgebied
-- Vakgerelateerde artikelen leren schrijven
+2) [Creating the new jQuery](https://medium.com/@maanlampje/creating-the-new-jquery-98fe8181f18d)
 
-## Werkwijze
-Elke week wordt er een presentatie gegeven door iemand uit het vakgebied. 
-Dit proberen we zo veel mogelijk bij bedrijven te organiseren. 
-Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkveld. 
-Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
+3) [Paradigmatic Paradoxes in Coding](https://medium.com/@maanlampje/paradigmatic-paradoxes-in-coding-1e85c3ab70b1)
 
+## Weekly Mingle
+<details>
+  <summary>Click here to view mingle summaries</summary>
 
-Van iedere presentatie maak je sketch-notes en aantekeningen die je op een blog verzamelt. 
-Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen.
-3 keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
-Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
-Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. 
-Engels wordt aangeraden.
+  ### ICATT
+  De eerste weekly mingle vond plaats bij ICATT. We werden ontvangen door een Business Unit Manager, frontender, backender en de directeur.
 
+  Ze begonnen het gesprek met een presentatie over hoe zij een opdracht omzetten van idee tot werkend product. Ze bleken veelal head-first te beginnen, maar sinds kort hadden ze besloten om eerst een uitgebreid ontwerpproces te starten voordat ze aan het ontwikkelen zloegen.
 
-## Criteria
-Er wordt van je verwacht dat je alle Weekly Nerds bijwoont. 
-Je mag niet meer dan 1 Weekly Nerd missen. 
-Als je meer dan 1 Weekly Nerd mist dan krijg je een vervangende opdracht.
+  Aan het einde mochten we een elevator pitch houden over wat wij wilden bereiken in onze carrières, waarin ik zei dat ik de wereld *ten goede* wil veranderen.
 
-Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterproef ingeleverd zijn.
+  ### Lifely
+  Bij lifely vertelden ze vooral hoe zij scrum toepassen bij het realiseren van een project. Daarnaast werden we geattendeerd op hoe belangrijk het is voor een stagezoekende student om een goede portfolio te hebben -- dat gold ook voor toekomstige werknemers.
 
+  ### Dept
+  Bij dept draaide alles om componenten. Ze gebruikten allerlei verschillende frameworks, maar elk framework kon gebruik maken van hun persoonlijke "componentenkluis".
 
-### Voorbeelden van voorgaande jaren
+  In hun presentatie kregen we een klein voorbeeld van hoeveel componenten er eigenljik in een website zitten; we werden (on?)aangenaam verrast.
 
-* https://medium.com/@vincentkempers_/functional-light-programming-helped-me-a-lot-99856a9ac0ff
-* https://codepen.io/servinnissen/post/plan-then-code
-* https://github.com/Jamerrone/weekly-nerd-blog/blob/master/articles/article-3.md
-* https://github.com/muise001/Weekly_Nerd#bruce-lawson---w3c-over-webstandards
-* https://medium.com/@vincentkempers_/my-experience-at-nlhtml5-x-cssday-df855997a191
+  De mingle werd afgesloten met een rondleiding door het gebouw -- dat zag er erg mooi uit.
 
+  ### Elastique
+  Elastique ligt in Hilversum, dus dat was bij mij om de hoek!
 
-## Programma
+  De mingle begon met een rondleiding door het gebouw. Daarna werd verteld wat Elastique doet, wat *alles* blijkt te zijn. Ze hebben veel verschillende developers in dienst; front- & backenders, UI & UX en iOS & android developers.
 
-### Workshops, praatjes en lezingen
+  Een gaaf en groot bedrijf, wat gelijk ook wel een beetje een tegenvaller was, want ik kreeg niet het gevoel dat ik daar impact kon maken op de wereld. Meer één van de zoveel werknemers.
 
+  ### Valtech
+  Valtech is een bedrijf dat niet alleen in Nederland gestationeerd is; alle kantoren hebben hun eigen specialiteiten.
 
-| Datum  | Wat  | Waar | Link  |
-|---|---|---|---|
-| 6 Februari | Sketchnotes met Maaike van Cruchten en Brit Wijnmaalen   | CMD |   |
-| 13 Februari | Stephan Hay over Design Patterns  |   |   |
-| 27 Februari | Cyd Stumpel (ex) & Dennis Spierenburg (ex) over werken als Frontender bij Matise | <a href="https://www.matise.nl">Matise</a> |   |
-| 13 Maart | Maike Klip over ontwerpen voor vluchtelingen | CMD | ICONS |
-| 20 Maart | Ischa Gast over A11y | <a href="https://schiphol.nl">Schiphol</a> |   |
-| 27 Maart | Workshop PE | <a href="https://www.voorhoede.nl/nl/">de Voorhoede</a> |   |
-| 10 April | Daan Rongen over afstuderen en je eigen signatuur behouden | CMD  |   |
-| 17 April | Weekly Mingle |   |   |
-| 24 April | Weekly Mingle |   |   |
-| 8 Mei | Weekly Mingle |   |   |
-| 15 Mei | Weekly Mingle |   |   |
-| 22 Mei | Weekly Mingle |   |   |
-| 29 Mei | Weekly Mingle |   |   |
-| 5 Juni | Weekly Mingle |   |   |
-| 12 Juni | Weekly Mingle |   |   |
-| 19 Juni | Weekly Mingle |   |   |
+  We werden ontvangen door een nieuwe werknemer, waarmee wij kort hebben gepraat over wat het inhoud om developer te zijn voor Valtech.
 
+  De persoon die ons daarna meenam voor een rondleiding had in de file gestaan. Na de rondleiding zijn we gaan zitten en kregen we een korte uitleg over wat het betekende om als developer te werken voor Valtech. De man die ons te woord stond had zelf als backender gesolliciteerd, maar had tijdenz zijn werk uitgevonden dat hij zich beter op zijn plaats voelde als frontender.
 
-### Weekly Mingle
-Voor de Weekly Mingle gaan we een aantal weken bedrijven bezoeken. In kleine groepjes ga je kennismaken, krijg je een rondleiding en een presentatie. De bedrijven die hier aan meewerken zijn:
+  ### Mirabeau
+  We waren al op deze locatie geweest voor een voorgaand project, dus ik wist al hoe het allemaal inelkaar zat. Ik had al niet zo'n geweldig gevoel bij dit bedrijf (geen respect voor privacy en vooral "big data om de big data"), en dat werd niet beter. de mensen die ons te woord stonden hadden geen presentatie voorbereid en wij moesten maar vragen wat we wilden weten. Op zich niet verkeerd, maar ik was er al geweest en ik moet eerlijk zeggen dat ik niet heel geïnteresserd was over de details van hun werk.
 
-* <a href="https://www.deptagency.com/nl-nl/">Dept Amsterdam</a>	
-* <a href="https://www.elastique.nl">Elastique</a>
-* <a href="https://www.valtech.com/nl-nl/">Valtech Amsterdam</a>
-* <a href="https://www.mirabeau.nl">Mirabeau Amsterdam</a>
-* <a href="https://www.q42.nl/">Q42 Amsterdam</a>
-* <a href="https://www.matise.nl">Matise</a>
-* <a href="https://www.icatt.nl">ICATT interactive media</a>
-* <a href="https://lifely.nl">Lifely</a>
+  ### Q42
+  We werden door twee werknemers meegenomen naar een kantoorruimte waarin we een presentatie kregen over wat Q42 doet en waar ze voor staan. Het bleek een best leuk bedrijf met interessant werkdynamiek: je had enigszins de vrijheid om te keizen waaraan je wilt (of niet wilt) werken, en tussen de opdrachten door maakten ze zelfs expliciet tijd vrij voor persoonlijke projecten die, mits ze leuk zijn, misschien wel verder ontwikkeld mogen worden onder werktijd.
 
-[Indeling voor de Weekly Mingle](https://docs.google.com/spreadsheets/d/1p5jQ3j5DAknpjaZVpOfyqoqAt5b-9lf0UkZSx5mDUEM/edit#gid=0)
+  Ze vertelden wat over hun projecten, en ik heb het met ze gehad over de ethiek van klanten zoals de Staatsloterij, die zij vroeger wel als klant hadden. Het was fijn te horen dat mensen dezelfde mening hebben als ik, en dat daar de ruimte voor was bij Q42.
+
+  Het enige jammer was dat ze helemaal geen design zelf doen -- het zijn alleen engineers/developers. Ik zou ook wel graag wat met design willen doen als ik stage moet lopen of werken.
+
+  ### Matise
+  Matise had een hele leuke locatie. We kwamen binnen en konden over een gracht rechtstreeks naar olifantenkonten kijken in Artis. Het was een klein pand, en er liepen veel honden -- op zich geen probleem, maar het rook ook ontzettend naar (natte) hond...
+
+  De presentatie die zij hielden was kort maar krachtig, ze sloegen veel slides over met de reden dat "ze het nu al zo vaak gedaan hadden". Dat voelde een beetje raar, want er zaten daardoor allemaal gaten in het verhaal.
+
+  Als laatste vroegen ze ons mee te denken aan één van hun aankomende opdrachten. Aan de ene kant was dat een leuke en unieke opdracht, maar aan de andere kant voel je je dan wel weer de typische stagiar die ontbetaald werk voor anderen doet.
+
+  Het was een interessant bedrijf, maar nadat ik hoorde dat ze voor elke opdracht (hoe klein dan ook) gelijk grepen naar Vue, en er weinig aandachty werd besteed aan accessibility (want dat zou extra geld kosten?), leek het me niet de beste plek om stage te lopen of te werken.
+</details>
+
+## Weekly Geek
+<details>
+  <summary>Click here to view sketchnotes</summary>
+
+  ### Sketchnotes met Maaike van Cruchten en Brit Wijnmaalen CMD
+  ![](./images/sketchnotes2.jpg)
+  ![](./images/sketchnotes3.jpg)
+  ![](./images/sketchnotes1.jpg)
+
+  ### Stephan Hay over Design Patterns
+  ![](./images/dp.jpg)
+
+  ### Cyd Stumpel (ex) & Dennis Spierenburg (ex) over werken als Frontender bij Matise
+  Was ik helaas niet bij.
+
+  ### Maike Klip over ontwerpen voor vluchtelingen CMD ICONS
+  ![](./images/duo2.jpg)
+  ![](./images/duo1.jpg)
+
+  ### Ischa Gast over A11y Schiphol
+  ![](./images/schiphol.jpg)
+
+  ### Workshop PE de Voorhoede
+  ![](./images/voorhoede.jpg)
+
+  ### Daan Rongen over afstuderen en je eigen signatuur behouden
+  ![](./images/daan2.jpg)
+  ![](./images/daan1.jpg)
+</details>
